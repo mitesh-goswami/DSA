@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "new": "cpp",
+    "ostream": "cpp",
+    "cmath": "cpp",
+    "ratio": "cpp",
+    "vector": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
